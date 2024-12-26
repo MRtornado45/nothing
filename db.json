@@ -1,8 +1,10 @@
 {
-  "posts": [
+  "users": [
     {
       "id": 1,
-      "permission":"admin",
+      "permission": "admin",
       "username": "storm",
-      "password":"Storm23@#"
+      "password": "Storm23@#"
     }
+  ]
+}
